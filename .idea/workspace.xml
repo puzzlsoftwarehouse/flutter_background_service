@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9042afe7-efef-4862-8ceb-07028eef876f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/packages/flutter_background_service/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/flutter_background_service/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/flutter_background_service_android/android/src/main/java/id/flutter/flutter_background_service/BackgroundService.java" beforeDir="false" afterPath="$PROJECT_DIR$/packages/flutter_background_service_android/android/src/main/java/id/flutter/flutter_background_service/BackgroundService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/flutter_background_service_android/lib/flutter_background_service_android.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/flutter_background_service_android/lib/flutter_background_service_android.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="feat/change_path" />
+                    <option name="lastUsedInstant" value="1697205832" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="feat/open_app" />
+                    <option name="lastUsedInstant" value="1697205665" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1697205595" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "feat/change__path"
+  }
+}]]></component>
+  <component name="RunManager" selected="Flutter.Flutter Run -&gt; 'example'" />
+  <component name="TaskManager">
+    <servers />
+  </component>
+</project>

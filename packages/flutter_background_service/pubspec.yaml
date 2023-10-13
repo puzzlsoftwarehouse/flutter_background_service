@@ -15,7 +15,10 @@ dependencies:
     sdk: flutter
 
   flutter_background_service_platform_interface: ^5.0.0
-  flutter_background_service_android: ^6.0.1
+  flutter_background_service_android:
+    git:
+      url: https://github.com/puzzlsoftwarehouse/flutter_background_service.git
+      ref: feat/open_app
   flutter_background_service_ios: ^5.0.0
 dev_dependencies:
   flutter_test:
