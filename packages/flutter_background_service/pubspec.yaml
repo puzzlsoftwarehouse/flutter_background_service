@@ -19,6 +19,7 @@ dependencies:
     git:
       url: https://github.com/puzzlsoftwarehouse/flutter_background_service.git
       ref: feat/open_app
+      path: packages/flutter_background_service_android
   flutter_background_service_ios: ^5.0.0
 dev_dependencies:
   flutter_test:
